@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2017
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JUCEFFTForUnity - Unity Plugin", "JUCEFFTForUnity_UnityPlugin.vcxproj", "{F557BB2B-556F-35F4-946B-DBC57D25A62E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6898EE35-1D75-608D-111C-EC57D61CF602} = {6898EE35-1D75-608D-111C-EC57D61CF602}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JUCEFFTForUnity - Shared Code", "JUCEFFTForUnity_SharedCode.vcxproj", "{6898EE35-1D75-608D-111C-EC57D61CF602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F557BB2B-556F-35F4-946B-DBC57D25A62E}.Debug|x64.ActiveCfg = Debug|x64
+		{F557BB2B-556F-35F4-946B-DBC57D25A62E}.Debug|x64.Build.0 = Debug|x64
+		{F557BB2B-556F-35F4-946B-DBC57D25A62E}.Release|x64.ActiveCfg = Release|x64
+		{F557BB2B-556F-35F4-946B-DBC57D25A62E}.Release|x64.Build.0 = Release|x64
+		{6898EE35-1D75-608D-111C-EC57D61CF602}.Debug|x64.ActiveCfg = Debug|x64
+		{6898EE35-1D75-608D-111C-EC57D61CF602}.Debug|x64.Build.0 = Debug|x64
+		{6898EE35-1D75-608D-111C-EC57D61CF602}.Release|x64.ActiveCfg = Release|x64
+		{6898EE35-1D75-608D-111C-EC57D61CF602}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
