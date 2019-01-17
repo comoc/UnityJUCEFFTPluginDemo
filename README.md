@@ -5,7 +5,8 @@ A Unity native audio plugin demo of FFT using [JUCE](https://juce.com/)
 ## UnityProject folder
 
 This is a Unity project including a demo scene.
-You can see an audio spectrum in the Scene window.
+
+You can see an audio spectrum in the Scene window of Unity Editor.
 
 ### Assets/Scenes/Demo.unity
 
