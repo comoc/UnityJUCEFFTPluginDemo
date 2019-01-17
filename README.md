@@ -14,3 +14,7 @@ This is the demo.
 ## JUCEFFTForUnity folder
 
 This is a JUCE project including the implementation of FFT.
+
+## Reference
+
+- [JUCE 5.4.0 adds Unity Native Plug-in Support](https://juce.com/discover/stories/unity-native-plug-in-support)
